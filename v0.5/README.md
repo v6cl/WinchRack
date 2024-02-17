@@ -1,7 +1,7 @@
 # WinchRack v0.5
 Motor powered standalone spool rewinder for Annex Tradrack
 
-![image](https://github.com/v6cl/WinchRack/assets/16078263/0a09c7b3-d940-4e0d-897d-ec58f3968879)
+![image](https://github.com/v6cl/WinchRack/assets/16078263/adada34e-6afa-4bf0-a330-dc1c9d353933)
 
 Operates at 5 volt. (Can use 5v pin on control board or external power source)
 
