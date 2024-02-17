@@ -47,6 +47,8 @@ m2 self tapping screw 8~10mm x 4
 
 D2F Micro switch 
 
+4mm Bearing ball (same tradrack bom)
+
 # unresolved problems
 
 - Problem with new filament spools coming loose and tangling
