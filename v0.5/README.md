@@ -45,6 +45,8 @@ m2 self tapping screw 8~10mm x 4
 
 6mm collet for 4mm PTFE Tube x 1 (https://zrr.kr/7WdG)
 
+D2F Micro switch 
+
 # unresolved problems
 
 - Problem with new filament spools coming loose and tangling
