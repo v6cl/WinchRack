@@ -47,10 +47,39 @@ m2 self tapping screw 8~10mm x 4
 
 D2F Micro switch 
 
+4mm Bearing ball (same tradrack bom)
+
+## Tradrack experiment function for rewinder branch
+
+for resolve exception situation.
+
+On ssh teriminal
+
+```
+cd ~
+./trad_rack_klippy_module/Klipper_Stuff/klippy_module/install.sh
+./trad_rack_klippy_module/Klipper_Stuff/klippy_module/install.sh rewinder-experiments
+```
+
+On Mainsail in moonraker.conf
+
+```
+[update_manager trad_rack]
+type: git_repo
+path: ~/trad_rack_klippy_module
+origin: https://github.com/Annex-Engineering/TradRack.git
+primary_branch: rewinder-experiments
+managed_services: klipper
+```
+
+and [trad_rack] in trad_rack.cfg
+
+```
+selector_unload_length_extra: 6.0
+```
+
 # unresolved problems
 
 - Problem with new filament spools coming loose and tangling
-
-- A state in which the motor rotates infinitely when rewinding after filament is removed from an almost completely used filament spool.
 
 
