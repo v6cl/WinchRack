@@ -51,6 +51,8 @@ D2F Micro switch
 
 ## Tradrack experiment function for rewinder branch
 
+for resolve exception situation.
+
 On ssh teriminal
 
 ```
