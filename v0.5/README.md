@@ -70,6 +70,12 @@ primary_branch: rewinder-experiments
 managed_services: klipper
 ```
 
+and [trad_rack] in trad_rack.cfg
+
+```
+selector_unload_length_extra: 6.0
+```
+
 # unresolved problems
 
 - Problem with new filament spools coming loose and tangling
