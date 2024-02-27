@@ -75,7 +75,7 @@ managed_services: klipper
 and [trad_rack] in trad_rack.cfg
 
 ```
-selector_unload_length_extra: 3.0 # BufferRail_rev2.stl update
+selector_unload_length_extra: 4.0 # BufferRail_rev2.stl update
 ```
 
 # unresolved problems
