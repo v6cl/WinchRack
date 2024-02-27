@@ -75,7 +75,6 @@ managed_services: klipper
 and [trad_rack] in trad_rack.cfg
 
 ```
-# This feature may cause filament load failure.
 selector_unload_length_extra: 4.0 # BufferRail_rev2.stl update
 ```
 
