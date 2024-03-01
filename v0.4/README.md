@@ -27,7 +27,7 @@ Wago 5pin x 2
 
 Opto endstop x 1 (https://zrr.kr/ZYrV)
 
-n20 gear motor 300 rpm 5v ~ 6v x  1 (https://zrr.kr/33Ta)
+n20 gear motor 300 rpm 5v ~ 6v x  1
 
 ls-p20/15 3kg x 2 (https://zrr.kr/Rqkb)
 
