@@ -31,8 +31,7 @@ mosfet switch 1ch x 1 (https://zrr.kr/TrOc)
 
 623zz x 8
 
-silicon ring 13mm x 1 [link](https://ko.aliexpress.com/item/4001119588533.html?pdp_npi=4%40dis%21KRW%21%E2%82%A9%20700%21%E2%82%A9%20659%21%21%210.51%210.48%21%402141113617075557439996244e6a34%2110000014544527050%21sh%21KR%21889811361%21&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007473650367.4001119588533&gatewayAdapt)
-
+silicon ring 13mm x 1 
 PTFE tube 3x4 or 2x4 
 
 m3 insert nut (OD 5mm, L 4mm)
@@ -43,7 +42,8 @@ m4 bolt 15mm x 2 (For ls-p20/15)
 
 m2 self tapping screw 8~10mm x 4
 
-6mm collet for 4mm PTFE Tube x 1 
+6mm collet for 4mm PTFE Tube x 1 [link](https://ko.aliexpress.com/item/4001119588533.html?pdp_npi=4%40dis%21KRW%21%E2%82%A9%20700%21%E2%82%A9%20659%21%21%210.51%210.48%21%402141113617075557439996244e6a34%2110000014544527050%21sh%21KR%21889811361%21&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007473650367.4001119588533&gatewayAdapt)
+
 D2F Micro switch 
 
 4mm Bearing ball (same tradrack bom)
