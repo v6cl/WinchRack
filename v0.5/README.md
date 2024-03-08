@@ -31,7 +31,8 @@ mosfet switch 1ch x 1 (https://zrr.kr/TrOc)
 
 623zz x 8
 
-silicon ring 13mm x 1 
+silicon ring 13mm x 1 [link](https://ko.aliexpress.com/item/1005003170142883.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.2.3e67KRZCKRZC9C&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=280ffd8f-c002-46bc-b687-ef88cf8c474e&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:280ffd8f-c002-46bc-b687-ef88cf8c474e,tpp_buckets:668%232846%238116%232002&pdp_npi=4%40dis%21KRW%212243%211340%21%21%211.64%210.98%21%402141111917098561046491899eaa87%2112000024474039205%21rec%21KR%21889811361%21&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A)
+
 PTFE tube 3x4 or 2x4 
 
 m3 insert nut (OD 5mm, L 4mm)
