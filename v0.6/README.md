@@ -22,7 +22,11 @@ ls-p20/15 3kg x 2
 
 silicon ring x 1 (https://zrr.kr/E5Dk)
 
+D2F-L Micro switch 
+
 PTFE tube 3x4 or 2x4 
+
+6mm collet for 4mm PTFE Tube x 1
 
 m3 insert nut (OD 5mm, L 4mm)
 
@@ -32,9 +36,6 @@ m4 bolt 10mm x 2 (For ls-p20/15)
 
 m2 self tapping screw 10mm x 2
 
-6mm collet for 4mm PTFE Tube x 1 (https://zrr.kr/7WdG)
-
-D2F-L Micro switch 
 
 ## Tradrack experiment function for rewinder branch
 
