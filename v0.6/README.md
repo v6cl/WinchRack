@@ -9,6 +9,7 @@ just 5 voltage, nothing else required.
 
 ![image](https://github.com/v6cl/WinchRack/assets/16078263/11d83d9b-03ac-4441-8721-6844db9099bf)
 
+test video (https://www.youtube.com/shorts/cYGZjAq18Js)
 
 ## BOM
 
