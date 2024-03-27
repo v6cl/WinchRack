@@ -5,6 +5,10 @@ Operates at 5 volt. (Can use 5v pin on control board or external power source)
 
 just 5 voltage, nothing else required.
 
+![image](https://github.com/v6cl/WinchRack/assets/16078263/c94f0b1d-32d0-4daa-8e72-0be90596ac8d)
+
+![image](https://github.com/v6cl/WinchRack/assets/16078263/11d83d9b-03ac-4441-8721-6844db9099bf)
+
 
 ## BOM
 
@@ -58,7 +62,7 @@ managed_services: klipper
 and [trad_rack] in trad_rack.cfg
 
 ```
-selector_unload_length_extra: 3.0 # BufferRail_rev2.stl update
+selector_unload_length_extra: 4.0 # BufferRail_rev2.stl update
 ```
 
 # unresolved problems
