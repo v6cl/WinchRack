@@ -36,6 +36,8 @@ m4 bolt 10mm x 2 (For ls-p20/15)
 
 m2 self tapping screw 10mm x 2
 
+2020 aluminum profiles in suitable lengths(check STP file)
+
 
 ## Tradrack experiment function for rewinder branch
 
