@@ -21,7 +21,7 @@ Wago 5pin x 2
 
 Opto endstop x 1 (https://zrr.kr/ZYrV)
 
-n20 gear motor 300 rpm 5v ~ 6v x  1 (https://zrr.kr/33Ta)
+n20 gear motor 300 rpm 5v ~ 6v x  1 (https://zrr.kr/aFPa)
 
 ls-p20/15 3kg x 2 (https://zrr.kr/Rqkb)
 
@@ -31,7 +31,7 @@ mosfet switch 1ch x 1 (https://zrr.kr/TrOc)
 
 623zz x 8
 
-silicon ring x 1 (https://zrr.kr/E5Dk)
+silicon ring 13mm x 1 [link](https://ko.aliexpress.com/item/1005005445878990.html)
 
 PTFE tube 3x4 or 2x4 
 
@@ -43,7 +43,7 @@ m4 bolt 15mm x 2 (For ls-p20/15)
 
 m2 self tapping screw 8~10mm x 4
 
-6mm collet for 4mm PTFE Tube x 1 (https://zrr.kr/7WdG)
+6mm collet for 4mm PTFE Tube x 1 [link](https://ko.aliexpress.com/item/4001119588533.html?pdp_npi=4%40dis%21KRW%21%E2%82%A9%20700%21%E2%82%A9%20659%21%21%210.51%210.48%21%402141113617075557439996244e6a34%2110000014544527050%21sh%21KR%21889811361%21&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007473650367.4001119588533&gatewayAdapt)
 
 D2F Micro switch 
 
@@ -75,7 +75,7 @@ managed_services: klipper
 and [trad_rack] in trad_rack.cfg
 
 ```
-selector_unload_length_extra: 3.0 # BufferRail_rev2.stl update
+selector_unload_length_extra: 4.0 # BufferRail_rev2.stl update
 ```
 
 # unresolved problems
